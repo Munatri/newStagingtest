@@ -48,9 +48,9 @@
     <value name="createdDate">1682518955984</value>
     <value name="lastModifiedDate">1682518955984</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">ded93780423940939b83fb7ef1584afb</value>
-      <null name="group"/>
-      <value name="name">new286stagingflow</value>
+      <value name="group">Default</value>
+      <value name="id">default</value>
+      <value name="name">Cloud Execution</value>
     </record>
     <value name="displayName">stagingpriv</value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
