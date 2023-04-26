@@ -1,0 +1,13 @@
+version: "1.0"
+info:
+  scaffold: stagingpriv
+  model: int-scaffold
+services:
+- serviceName: pub.date:getCurrentDate
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.286
+- serviceName: edge.newstaging286custom.integrations:stagingpriv
+  packages:
+  - name: EdgeNewStaging286Custom
+    version: "1.0"
